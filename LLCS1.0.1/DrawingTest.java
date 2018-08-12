@@ -39,7 +39,7 @@ public class DrawingTest extends Canvas
 
         cH = 200;
 
-        if (command == "C")
+        if (command.equals("C"))
 
         {
 
