@@ -1,6 +1,7 @@
 import java.awt.Canvas;
 import java.awt.Graphics;
 import javax.swing.JFrame;
+import java.util.Scanner;
 
 public class DrawingTest extends Canvas
 
@@ -14,15 +15,33 @@ public class DrawingTest extends Canvas
 
         Canvas canvas = new DrawingTest();
 
-        String command = "C";
+        String command;
+
+        int cW;
+
+        int cH;
+
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("For Canvas, please type C for command");
+
+        System.out.println("For Line, please type L for command");
+
+        System.out.println("For Rectangle, please type R for command");
+
+        System.out.println("For Bucket Fill, please type B for command");
+
+        System.out.println("Please type command");
+
+        command = scanner.next();
+
+        cW = 200;
+
+        cH = 200;
 
         if (command == "C")
 
         {
-
-            int cW = 200;
-
-            int cH = 200;
 
             canvas.setSize(cW, cH);
 
@@ -37,8 +56,11 @@ public class DrawingTest extends Canvas
         else
 
         {
-            System.out.println("Fail");
+
+                System.out.println("Fail");
+
         }
+
     }
 
     public void paint(Graphics g)
