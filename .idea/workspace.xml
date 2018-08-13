@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9cba2a2-2370-4ff2-a7c4-c2edc9fd8afd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LLCS1.0.1/DrawingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/LLCS1.0.1/DrawingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LLCS1.0.1/output/production/BeginnerRocks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LLCS1.0.1/output/production/BeginnerRocks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LLCS1.0.1/output/test/BeginnerRocks/DrawingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/LLCS1.0.1/output/test/BeginnerRocks/DrawingTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="d9cba2a2-2370-4ff2-a7c4-c2edc9fd8afd" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,36 +22,66 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="1" />
+          <entry key="java" value="4" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="4" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="105" />
+          <entry key="java" value="250" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="105" />
+          <entry key="JAVA" value="250" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LLCS1.0.1/DrawingTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LLCS1.0.1/ll/Console.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LLCS1.0.1/ll/Output.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LLCS1.0.1/trytry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,13 +91,25 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/LLCS1.0.1/Console/Output.java" />
+        <option value="$PROJECT_DIR$/LLCS1.0.1/Console/Console.java" />
         <option value="$PROJECT_DIR$/LLCS1.0.1/DrawingTest.java" />
+        <option value="$PROJECT_DIR$/LLCS1.0.1/ll/Output.java" />
+        <option value="$PROJECT_DIR$/LLCS1.0.1/ll/Console.java" />
+        <option value="$PROJECT_DIR$/LLCS1.0.1/trytry.java" />
       </list>
     </option>
   </component>
@@ -107,6 +144,32 @@
               <item name="BeginnerRocks" type="462c0819:PsiDirectoryNode" />
               <item name="LLCS1.0.1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BeginnerRocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeginnerRocks" type="462c0819:PsiDirectoryNode" />
+              <item name="LLCS1.0.1" type="462c0819:PsiDirectoryNode" />
+              <item name="ll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeginnerRocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeginnerRocks" type="462c0819:PsiDirectoryNode" />
+              <item name="LLCS1.0.1" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeginnerRocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeginnerRocks" type="462c0819:PsiDirectoryNode" />
+              <item name="LLCS1.0.1" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BeginnerRocks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BeginnerRocks" type="462c0819:PsiDirectoryNode" />
+              <item name="LLCS1.0.1" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -115,7 +178,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534090144562" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534173812573" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -132,7 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.trytry">
     <configuration name="DrawingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DrawingTest" />
       <module name="BeginnerRocks" />
@@ -140,8 +203,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="trytry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trytry" />
+      <module name="BeginnerRocks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DrawingTest" />
+      <item itemvalue="Application.trytry" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.trytry" />
         <item itemvalue="Application.DrawingTest" />
       </list>
     </recent_temporary>
@@ -161,6 +236,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -202,11 +278,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LLCS1.0.1/DrawingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LLCS1.0.1/ll/Output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LLCS1.0.1/trytry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LLCS1.0.1/ll/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
